@@ -14,7 +14,7 @@ const HeroSection = () => {
             <h1 className="hero-title">Naturales y Concentrados</h1>
           </div>
           <div
-            style={{ clipPath: "polygon(50% 0%, 50% 0%, 50% 100%, 50% 100%)" }}
+            /* style={{ clipPath: "polygon(50% 0%, 50% 0%, 50% 100%, 50% 100%)" }} */
             className="hero-text-scroll"
           >
             <div className="hero-subtitle">

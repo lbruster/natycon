@@ -1,5 +1,9 @@
 import NavBar from "./components/NavBar";
+import BenefitSection from "./sections/BenefitSection";
+import FooterSection from "./sections/FooterSection";
 import HeroSection from "./sections/HeroSection";
+import MessageSection from "./sections/MessageSection";
+import NutritionSection from "./sections/NutritionSection";
 
 function App() {
   return (
@@ -9,7 +13,10 @@ function App() {
         <div id="smooth-wrapper">
           <div id="smooth-content">
             <HeroSection />
-            <HeroSection />
+            <NutritionSection />
+            <BenefitSection />
+            <MessageSection />
+            <FooterSection />
           </div>
         </div>
       </main>
