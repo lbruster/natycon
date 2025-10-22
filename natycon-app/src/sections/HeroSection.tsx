@@ -22,8 +22,8 @@ const HeroSection = () => {
             </div>
           </div>
           <h2>
-            Live life to the fullest with SPYLT: Shatter boredom and embrace
-            your inner kid with every deliciously smooth chug.
+            Squeeze joy from every moment with Lemon Elixir: Brighten your day
+            and refresh your soul with zest."
           </h2>
           <div className="hero-button">
             <p>Prueba un SHOT</p>
