@@ -4,8 +4,9 @@ import NavLogo from "/images/nav-logo.svg";
 
 const NavBar = () => {
   console.log(
-    `%cLeroy B%c Code%c%c,`,
-    "color:#d2ff00; font: 400 1em monospace;",
+    `%cLeroy B
+Code %c%c,`,
+    "color:#d2ff00; font: 400 5em monospace;",
     ""
   );
   return (
