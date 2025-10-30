@@ -30,8 +30,10 @@ const NutritionSection = () => {
         <div className="flex md:justify-center items-center translate-y-5 ">
           <div className="md:max-w-xs max-w-md">
             <p className="text-lg md:text-right text-balance font-paragraph">
-              Milk contains a wide array of nutrients, including vitamins,
-              minerals, and protein, and this is lactose free
+              El jugo de limón es una fuente natural de vitamina C,
+              antioxidantes y minerales esenciales que ayudan a fortalecer tu
+              sistema inmunológico, mejorar la digestión y mantener tu cuerpo
+              lleno de energía.
             </p>
           </div>
         </div>

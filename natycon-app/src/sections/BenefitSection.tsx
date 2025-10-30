@@ -4,8 +4,9 @@ const BenefitSection = () => {
       <div className="container mx-auto pt-20">
         <div className="col-center">
           <p className="">
-            Unlock the Advantages: <br />
-            Explore the Key Benefits of Choosing SPYLT
+            Descubre los Beneficios:
+            <br />
+            Explora las Ventajas Clave de Elegir EL-ELIXIR 🍋
           </p>
 
           <div className="mt-20 col-center">

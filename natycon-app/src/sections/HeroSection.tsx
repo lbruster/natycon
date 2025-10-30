@@ -22,8 +22,8 @@ const HeroSection = () => {
             </div>
           </div>
           <h2>
-            Squeeze joy fromcvsdfgvsdvsd d every moment with Lemon Elixir:
-            Brighten your day and refresh your soul with zest.
+            Squeeze joy from every moment with Lemon Elixir: Brighten your day
+            and refresh your soul with zest.
           </h2>
           <div className="hero-button">
             <p>Prueba un SHOT</p>

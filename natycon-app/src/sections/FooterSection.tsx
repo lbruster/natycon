@@ -60,8 +60,8 @@ const FooterSection = () => {
 
           <div className="md:max-w-lg">
             <p>
-              Get Exclusive Early Access and Stay Informed About Product
-              Updates, Events, and More!
+              ¡Obtén acceso exclusivo anticipado y mantente informado sobre
+              nuestras novedades, eventos y más!
             </p>
             <div className="flex justify-between items-center border-b border-[#D9D9D9] py-5 md:mt-10">
               {/* The input field and arrow icon for newsletter signup. */}{" "}
