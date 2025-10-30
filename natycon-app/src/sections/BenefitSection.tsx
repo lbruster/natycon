@@ -1,3 +1,5 @@
+import ClipPathTitle from "../components/ClipPathTitle";
+
 const BenefitSection = () => {
   return (
     <section className="benefit-section">
@@ -10,7 +12,7 @@ const BenefitSection = () => {
           </p>
 
           <div className="mt-20 col-center">
-            {/* <ClipPathTitle
+            <ClipPathTitle
               title={"Shelf stable"}
               color={"#faeade"}
               bg={"#c88e64"}
@@ -37,7 +39,7 @@ const BenefitSection = () => {
               bg={"#FED775"}
               className={"fourth-title"}
               borderColor={"#222123"}
-            /> */}
+            />
           </div>
 
           <div className="md:mt-0 mt-10">
