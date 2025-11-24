@@ -13,8 +13,8 @@ function App() {
         <div id="smooth-wrapper">
           <div id="smooth-content">
             <HeroSection />
-            <NutritionSection />
             <BenefitSection />
+            <NutritionSection />
             <MessageSection />
             <FooterSection />
           </div>
