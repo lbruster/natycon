@@ -22,11 +22,11 @@ const HeroSection = () => {
             </div>
           </div>
           <h2>
-            Squeeze joy from every moment with Lemon Elixir: Brighten your day
-            and refresh your soul with zest.
+            Exprime bienestar con nuestra limonada medicinal: revitaliza tu
+            cuerpo y mente con su energía natural.
           </h2>
           <div className="hero-button">
-            <p>Prueba un SHOT</p>
+            <p>Adquiere una Ya!</p>
           </div>
         </div>
       </div>

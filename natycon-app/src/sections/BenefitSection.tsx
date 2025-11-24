@@ -8,33 +8,33 @@ const BenefitSection = () => {
           <p className="">
             Descubre los Beneficios:
             <br />
-            Explora las Ventajas Clave de Elegir EL-ELIXIR 🍋
+            Explora las Ventajas Clave de nuestra limonada medicinal 🍋
           </p>
 
           <div className="mt-20 col-center">
             <ClipPathTitle
-              title={"Shelf stable"}
+              title={"Anís verde"}
               color={"#faeade"}
               bg={"#c88e64"}
               className={"first-title"}
               borderColor={"#222123"}
             />
             <ClipPathTitle
-              title={"Protein + Caffeine"}
+              title={"Albahaca"}
               color={"#222123"}
               bg={"#faeade"}
               className={"second-title"}
               borderColor={"#222123"}
             />
             <ClipPathTitle
-              title={"Infinitely recyclable"}
+              title={"Limón"}
               color={"#faeade"}
               bg={"#7F3B2D"}
               className={"third-title"}
               borderColor={"#222123"}
             />
             <ClipPathTitle
-              title={"Lactose free"}
+              title={"Maracuyá"}
               color={"#2E2D2F"}
               bg={"#FED775"}
               className={"fourth-title"}
