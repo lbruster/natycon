@@ -70,7 +70,7 @@ const MessageSection = () => {
       <div className="container mx-auto flex-center py-28 relative">
         <div className="w-full h-full">
           <div className="msg-wrapper">
-            <h1 className="first-message">"Despierta tu pasado valiente y</h1>
+            <h1 className="first-message">"Despierta tu pasado valiente y -</h1>
 
             <div
               style={{
